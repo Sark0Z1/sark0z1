@@ -15,3 +15,4 @@ Latest YouTube Videos
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCshpJpIZ5xJyjKGc8NAsvVQ)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/s_shumov)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&)](https://vk.com/sermosqa)
+[![GitLab](https://img.shields.io/badge/-GitLab-090909?style=for-the-badge&logo=GitLab)](https://gitlab.com/Shum_Shulum)
