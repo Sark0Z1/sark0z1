@@ -1,6 +1,6 @@
 ![Header](https://github.com/Sark0Z1/sark0z1/blob/main/assets/PNameGit.png)
 
-About me
+## C++ engineer on Unreal Engine. Happify. Bugs ancestor. 
 
 Latest YouTube Videos
 
